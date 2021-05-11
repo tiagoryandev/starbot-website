@@ -4,9 +4,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css">
+    <link rel="stylesheet" href="/styles/commands.css">
     <title>Document</title>
 </head>
 <body>
-    
+    <header>
+        <div class="navbar">
+            <div class="logomark">
+                <img src="/assets/logo-starbot.png" alt="StarBot" title="StarBot uma Aplicação para o seu Servidor Discord!">
+                <span>StarBot</span>
+            </div>
+            <div class="options">
+                <a href="/add"><button>Adicionar</button></a>
+                <ul>
+                    <li><a href="/discord">Suporte</a></li>
+                    <li><a href="/commands">Comandos</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="navbar-compact">
+            <div class="logomark">
+                <img src="./assets/logo-starbot.png" alt="StarBot" title="StarBot uma Aplicação para o seu Servidor Discord!">
+                <span>StarBot</span>
+            </div>
+            <div class="options">
+                <span id="button-navbar"><i class="fa fa-align-justify"></i></span>
+            </div>
+        </div>
+        
+        <div class="list-options" id="navbar-list-link">
+            <ul>
+                <li><a href="/discord">Suporte</a></li>
+                <li><a href="/commands">Comandos</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <footer>
+        <div class="icon-links">
+            <a href="/twitter"><i class="fab fa-twitter"></i></a>
+            <a href="/github"><i class="fab fa-github"></i></a>
+            <a href="/discord"><i class="fab fa-discord"></i></a>
+            <a href="maito:tiagoinsany@gmail.com"><i class="fa fa-envelope"></i></a>
+        </div>
+        <div class="copy">&copy; Copyright 2021 - Todos os Direitos Reservados | By iNsaNy Developers</div>
+    </footer>
+
+    <script src="./scripts/dropdownClick.js"></script>
 </body>
 </html>
