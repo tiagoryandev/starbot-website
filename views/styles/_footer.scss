@@ -1,0 +1,42 @@
+footer {
+    width: 100%;
+
+    margin: 2vw 0;
+
+    .icon-links {
+        user-select: none;
+        width: 100%;
+        max-width: 800px;
+
+        margin-left: auto;
+        margin-right: auto;
+        padding: 5%;
+
+        text-align: center;
+
+        a {
+            user-select: none;
+            text-decoration: none;
+
+            .fa, .fab {
+                color: #ffffff;
+                font-size: 28px;
+                margin: 0 5px;
+
+                transform: scale(1);
+                transition: transform 0.5s;
+
+                &:hover {
+                    transform: scale(1.5);
+                    transition: transform 0.5s;
+                }
+            }
+        }
+    }
+
+    .copy {
+        text-align: center;
+        color: #ffffff;
+        user-select: none;
+    }
+}
