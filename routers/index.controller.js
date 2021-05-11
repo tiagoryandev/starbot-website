@@ -4,7 +4,7 @@ const root = {
     root: "./views/"
 };
 
-router.all("/", (request, response) => {
+router.get("/", (request, response) => {
     return response.status(200).render("index", root);
 });
 
