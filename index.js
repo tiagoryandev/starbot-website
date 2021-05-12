@@ -10,6 +10,7 @@ app.use(express.static("./views"));
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
+app.use(require("./routers/redirect.controller"));
 app.use(require("./routers/index.controller"));
 
 app.listen(port, () => {
