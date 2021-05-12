@@ -299,17 +299,7 @@ header .list-options ul li a {
 }
 
 body::-webkit-scrollbar {
-  width: 10px;
-  padding: 4px;
-}
-
-body::-webkit-scrollbar-track, body::-webkit-scrollbar-track-piec {
-  background-color: #f09df0;
-}
-
-body::-webkit-scrollbar-thumb {
-  background: #f8d8f8;
-  border-radius: 10px;
+  display: none;
 }
 
 footer {
