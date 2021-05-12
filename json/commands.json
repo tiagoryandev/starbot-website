@@ -1,0 +1,252 @@
+{
+    "list": [
+        {
+            "name": "clima",
+            "description": "Mostrar como está o clima de uma determinada região."
+        },
+        {
+            "name": "autorole",
+            "description": "Definir um cargo para os novos membros que entrarem no seu servidor."
+        },
+        {
+            "name": "faustao",
+            "description": "Ativar as mensagens de notificações do Domingão do Faustão."
+        },
+        {
+            "name": "idioma",
+            "description": "Alterar o idioma dos comandos da StarBot."
+        },
+        {
+            "name": "leave",
+            "description": "Definir um canal para notificar todas as saidas dos membros do seu servidor."
+        },
+        {
+            "name": "logs",
+            "description": "Definir um canal para notificar os logs dentro do seu servidor."
+        },
+        {
+            "name": "prefix",
+            "description": "Comando para alterar o prefixo da StarBot."
+        },
+        {
+            "name": "set-starboard",
+            "description": "Define o canal para receber as mensagens do starboard no servidor."
+        },
+        {
+            "name": "set-sugestao",
+            "description": "Define um canal para receber as sugestões no servidor."
+        },
+        {
+            "name": "welcome",
+            "description": "Define um canal para notificar as entradas dos novos membros."
+        },
+        {
+            "name": "welcome-message",
+            "description": "Definir a mensagem de boas-vindas do servidor."
+        },
+        {
+            "name": "sobremim",
+            "description": "Mudar a biografia dentro do seu perfil."
+        },
+        {
+            "name": "background",
+            "description": "Comprar wallpapers para o seu perfil."
+        },
+        {
+            "name": "daily",
+            "description": "Comando para receber recompensas diárias para a sua carteira."
+        },
+        {
+            "name": "divorciar",
+            "description": "Comando para realizar divórcios entre seu perceiro ou parceira."
+        },
+        {
+            "name": "casar",
+            "description": "Comando para realizar casamentos entre seu ou sua cara metade."
+        },
+        {
+            "name": "pay",
+            "description": "Comando para realizar transações entre usuários."
+        },
+        {
+            "name": "perfil",
+            "description": "Comando para mostrar o seu perfil em imagem."
+        },
+        {
+            "name": "conquista",
+            "description": "Crie uma nova conquista em imagem do Minecraft!"
+        },
+        {
+            "name": "akinator",
+            "description": "Jogue Akinator no Discord"
+        },
+        {
+            "name": "ata",
+            "description": "Faça uma montagem do meme ata."
+        },
+        {
+            "name": "bobross",
+            "description": "Cria uma pintura estilo bobross"
+        },
+        {
+            "name": "cat",
+            "description": "Cat !!!!!!!"
+        },
+        {
+            "name": "changemymind",
+            "description": "Faça uma imagem do meme changemymind"
+        },
+        {
+            "name": "circle",
+            "description": "Corta um avatar em circulo"
+        },
+        {
+            "name": "clap",
+            "description": "Bata palmas e seja feliz 👏👏👏"
+        },
+        {
+            "name": "clyde",
+            "description": "Faça uma montagem com o nosso querido Clyde"
+        },
+        {
+            "name": "confusedstonks",
+            "description": "Faça um confusedmeme stonks !!!"
+        },
+        {
+            "name": "delete",
+            "description": "Jogue aquele membro chato no lixo"
+        },
+        {
+            "name": "dog",
+            "description": "Dog !!!!!!"
+        },
+        {
+            "name": "eject",
+            "description": "Ejete aquele seu amigo que você acha que é o impostor"
+        },
+        {
+            "name": "emojify",
+            "description": "Converta seu texto para emojis !!!"
+        },
+        {
+            "name": "gay",
+            "description": "Adicione a imagem LGBT a foto do seu amigo."
+        },
+        {
+            "name": "hug",
+            "description": "Abrace seu amigo"
+        },
+        {
+            "name": "kiss",
+            "description": "Dê um beijo no seu web crush"
+        },
+        {
+            "name": "laranjo",
+            "description": "Cria um meme do laranjo"
+        },
+        {
+            "name": "lisa",
+            "description": "Peça para Lisa Simpson pronunciar algo!"
+        },
+        {
+            "name": "notstonks",
+            "description": "Faça um notmeme stonks !!!"
+        },
+        {
+            "name": "petpet",
+            "description": "Acaricie o seu amigo"
+        },
+        {
+            "name": "primeiraspalavras",
+            "description": "Ai meu deus... as primeiras palavras do bebê "
+        },
+        {
+            "name": "reverse",
+            "description": "Bruh, essa frase está muito certinha, vamos reverter as palavras?"
+        },
+        {
+            "name": "slap",
+            "description": "Seu amigo corno está te pertubando? De um tapa na cara dele !!!!"
+        },
+        {
+            "name": "snake",
+            "description": "Cria um jogo divertidos e interativos baseados no famoso jogo Snake!"
+        },
+        {
+            "name": "stonks",
+            "description": "Faça um meme stonks!!!"
+        },
+        {
+            "name": "triggered ",
+            "description": "Sabe quando alguém está irritado? Então, crie uma imagem de alguém triggered!"
+        },
+        {
+            "name": "trump",
+            "description": "Faça Trump tweetar algo interresante"
+        },
+        {
+            "name": "vaporwave",
+            "description": "Cria uma mensagem com ａｅｓｔｈｅｔｉｃｓ"
+        },
+        {
+            "name": "procurado",
+            "description": "Crie uma imagem de alguem procurado"
+        },
+        {
+            "name": "botinfo",
+            "description": "Mostra as informações do bot"
+        },
+        {
+            "name": "channelinfo",
+            "description": "Veja todas as informações do canal do Servidor "
+        },
+        {
+            "name": "ajuda",
+            "description": "Veja todos os comandos que você pode usar."
+        },
+        {
+            "name": "ping",
+            "description": "Veja a latência do bot"
+        },
+        {
+            "name": "userinfo",
+            "description": "Veja todas as informações do usuário."
+        },
+        {
+            "name": "roleall",
+            "description": "Adicione um cargo a todos os membros do servidor."
+        },
+        {
+            "name": "play",
+            "description": "Toque alguma música"
+        },
+        {
+            "name": "stop",
+            "description": "Pare a música atual "
+        },
+        {
+            "name": "sugerir",
+            "description": "Sistema de sugestões da Star"
+        },
+        {
+            "name": "avatar",
+            "description": "Mostra seu avatar ou o avatar de algum usuário"
+        },
+        {
+            "name": "encurtar",
+            "description": "Encurtador de URL"
+        },
+        {
+            "name": "giveaway",
+            "description": "Faça um sorteio em seu servidor"
+        },
+        {
+            "name": "ocr",
+            "description": "Tire o texto de uma imagem"
+        },
+        {
+            "name": "slowmode",
+            "description": "Altera o tempo do modo lento do canal atual."
+        }
+    ]
+}

@@ -1,5 +1,6 @@
 const { Router } = require("express");
 const router = Router();
+const commandsList = require("../json/commands.json");
 const root = {
     root: "./views/"
 };
@@ -9,7 +10,10 @@ router.get("/", (request, response) => {
 });
 
 router.get("/commands", (request, response) => {
-    return response.status(200).render("commands", root);
+    return response.status(200).render("commands", {
+        cmds: commandsList.list,
+        root: "./views/"
+    });
 });
 
 router.use("*", (request, response) => {
